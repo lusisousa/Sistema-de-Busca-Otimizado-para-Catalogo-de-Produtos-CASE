@@ -25,8 +25,8 @@ O sistema foi desenvolvido em **Rust**, utilizando um **índice invertido** para
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/megastore-search.git
-cd megastore-search
+git clone https://github.com/lusisousa/Sistema-de-Busca-Otimizado-para-Catalogo-de-Produtos-CASE.git
+cd sistema-de-busca-otimizado-para-catalogo-de-produtos-case
 ```
 
 ### 2. Compilar o projeto
